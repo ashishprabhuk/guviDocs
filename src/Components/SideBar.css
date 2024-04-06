@@ -1,0 +1,9 @@
+#searchInput {
+    background-color: #ffffff; /* Default background color */
+    outline: none; /* Remove default outline */
+}
+
+#searchInput:focus {
+    background-color: #c4f2cb; /* Change background color on focus */
+    outline: 2px solid #c4f2cb; /* Add outline on focus */
+}
